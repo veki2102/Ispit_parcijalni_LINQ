@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\bin\Debug\Ispit.Konzola_LINQ.exe.config
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\bin\Debug\Ispit.Konzola_LINQ.exe
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\bin\Debug\Ispit.Konzola_LINQ.pdb
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\bin\Debug\Ispit.Model_LINQ.dll
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\bin\Debug\Ispit.Model_LINQ.pdb
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\obj\Debug\Ispit.Konzola_LINQ.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\obj\Debug\Ispit.Konzola_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\obj\Debug\Ispit.Ko.5C3C2B94.Up2Date
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\obj\Debug\Ispit.Konzola_LINQ.exe
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Konzola_LINQ\obj\Debug\Ispit.Konzola_LINQ.pdb

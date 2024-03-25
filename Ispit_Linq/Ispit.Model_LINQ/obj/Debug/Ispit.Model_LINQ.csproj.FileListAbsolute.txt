@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Model_LINQ\bin\Debug\Ispit.Model_LINQ.dll
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Model_LINQ\bin\Debug\Ispit.Model_LINQ.pdb
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Model_LINQ\obj\Debug\Ispit.Model_LINQ.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Model_LINQ\obj\Debug\Ispit.Model_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Model_LINQ\obj\Debug\Ispit.Model_LINQ.dll
+C:\Users\Korisnik\source\repos\Ispit_Linq\Ispit.Model_LINQ\obj\Debug\Ispit.Model_LINQ.pdb
