@@ -1,0 +1,1 @@
+# Ispit_parcijalni_LINQ
